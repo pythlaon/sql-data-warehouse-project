@@ -10,7 +10,7 @@ This project demonstrates how to design and build a modern data warehouse using 
 ---
 
 ## 📂 Project Structure
-
+```
 sql-data-warehouse-project/
 ├── data/                # Raw / sample CSVs or data dumps
 ├── etl/                 # ETL scripts (SQL)
@@ -19,6 +19,7 @@ sql-data-warehouse-project/
 ├── docs/                # Documentation, ER diagrams, data dictionary
 ├── README.md
 └── LICENSE
+```
 
 ---
 
