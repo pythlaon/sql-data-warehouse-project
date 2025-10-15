@@ -1,4 +1,4 @@
-# Data Warehouse Projects
+# Data Warehouse Project
 This project demonstrates how to design and build a modern data warehouse using MySQL, covering ETL, data modeling, and data analytics.
 
 🚀 Features
