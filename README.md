@@ -5,7 +5,7 @@ This project demonstrates how to design and build a modern data warehouse using 
 - **Data Sources**: Import data from CSV files (e.g. ERP + CRM)  
 - **Data Integration**: Merge sources into a unified, user-friendly structure  
 - **Data Quality**: Cleanse, deduplicate, and standardize data  
-- **ETL Pipelines**: Automate extract → transform → load workflows  
+- **ETL Pipelines**: Extract → transform → load workflows  
 
 ---
 
