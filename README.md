@@ -17,6 +17,8 @@ This project's data architecture is structured using the Medallion Architecture
 This script truncates and reloads the Bronze Layer tables from CSV files located in the `datasets/` folder.  
 All paths are **relative** to the project root, making it portable and easy to reuse.
 
+## Silver Layer Transformer
+This script transforms data from the Bronze layer into a cleaned and conformed Silver layer. It standardizes formats, deduplicates records, validates values, and applies business rules to prepare data for analytic consumption.
 ---
 
 ## 📊 Analytics & Reporting
