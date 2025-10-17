@@ -13,12 +13,16 @@ This project demonstrates how to design and build a modern data warehouse using 
 This project's data architecture is structured using the Medallion Architecture
 <img width="1921" height="1201" alt="DHW_Data_Architecture" src="https://github.com/user-attachments/assets/b6112a4a-b47d-43db-a37c-c071c120547f" />
 
-### 🧱 Bronze Layer Loader
+### Bronze Layer Loader
 This script truncates and reloads the Bronze Layer tables from CSV files located in the `datasets/` folder.  
 All paths are **relative** to the project root, making it portable and easy to reuse.
 
-## Silver Layer Transformer
+### Silver Layer Transformer
 This script transforms data from the Bronze layer into a cleaned and conformed Silver layer. It standardizes formats, deduplicates records, validates values, and applies business rules to prepare data for analytic consumption.
+
+### Gold Layer Modeler
+This script builds business-ready models in the Gold layer, such as fact and dimension tables. It aggregates, enriches, and optimizes data for reporting, ensuring high performance and clarity for BI and advanced analytics.
+
 ---
 
 ## 📊 Analytics & Reporting
