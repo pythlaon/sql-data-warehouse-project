@@ -9,7 +9,7 @@ This project demonstrates how to design and build a modern data warehouse using 
 
 ---
 
-## 🏗️  Data Architecture: Medallion Architecture
+## 🏗️ Medallion Data Architecture
 
 <img width="1921" height="1201" alt="DHW_Data_Architecture" src="https://github.com/user-attachments/assets/b6112a4a-b47d-43db-a37c-c071c120547f" />
 
