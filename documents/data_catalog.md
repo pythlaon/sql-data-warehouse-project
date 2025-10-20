@@ -15,8 +15,8 @@ It follows a **star schema** structure with **dimension tables (dim_)** and **fa
 | customer_key    | BIGINT UN    | Surrogate primary key                         |
 | customer_id     | INT          | Source system ID                              |
 | customer_number | VARCHAR(50)  | Business/customer-facing identifier           |
-| firstname       | VARCHAR(50)  | Given name                                    |
-| lastname        | VARCHAR(50)  | Surname                                       |
+| first_name       | VARCHAR(50)  | Given name                                    |
+| last_name        | VARCHAR(50)  | Surname                                       |
 | country         | VARCHAR(50)  | Country of residence                          |
 | marital_status  | VARCHAR(50)  | Marital status                                |
 | gender          | VARCHAR(50)  | Gender                                        |
