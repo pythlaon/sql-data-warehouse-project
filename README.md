@@ -38,18 +38,18 @@ The insights generated from these queries provide stakeholders with clear visibi
 
 ---
 
-## 📄 License
-
-Licensed under [MIT] — feel free to reuse or adapt.
-
----
-
 ✅ Project Management & Documentation
 
 This project is organized and maintained in Notion for tracking progress, design documentation, and task planning.
 
 🔗 Notion Workspace:
 https://www.notion.so/Data-Warehouse-Project-28ae9857685080778287e4d04aa080b3?source=copy_link
+
+---
+
+## 📄 License
+
+Licensed under [MIT] — feel free to reuse or adapt.
 
 ---
 
