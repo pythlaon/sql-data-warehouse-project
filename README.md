@@ -38,20 +38,6 @@ The insights generated from these queries provide stakeholders with clear visibi
 
 ---
 
-## 📂 Project Structure and Requirements
-```
-sql-data-warehouse-project/
-├── data/                # Raw / sample CSVs or data dumps
-├── etl/                 # ETL scripts (SQL)
-├── models/              # SQL schema definitions, DDL files
-├── analytics/           # Queries, views, reporting logic
-├── docs/                # Documentation, ER diagrams, data dictionary
-├── README.md
-└── LICENSE
-```
-
----
-
 ## 📄 License
 
 Licensed under [MIT] — feel free to reuse or adapt.
